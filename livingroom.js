@@ -44,5 +44,6 @@ function setup(){
             console.log(error);
         }
         console.log(results);
+        objects=results;
     }
     
