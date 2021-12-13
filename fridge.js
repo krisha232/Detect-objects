@@ -42,4 +42,5 @@ function gotResult(error, results) {
         console.log(error);
     }
     console.log(results);
+    objects=results;
 }
