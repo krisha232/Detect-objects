@@ -1,6 +1,6 @@
 img = "";
 status1="";
-
+objects=[];
 function back() {
     window.location = "index.html";
 }
